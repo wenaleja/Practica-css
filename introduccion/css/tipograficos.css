@@ -1,0 +1,28 @@
+.mi-clase{
+     color: blueviolet;
+     font-size: 16px;
+     font-style: oblique;
+     font-weight: 300;
+     letter-spacing: 4px;
+     line-height: normal;
+     text-align: center;
+     text-shadow: 3px -4px lightgreen;
+}
+
+.ff-serif{
+    font-family: serif;
+}
+
+.ff-sans-serif{
+    font-family: sans-serif;
+}
+
+.ff-monospace {
+    font-family: monospace;
+}
+
+.color-blue{
+    color: blue;
+    text-decoration: underline;
+    text-indent: 4px;
+}
